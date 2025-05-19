@@ -1,2 +1,2 @@
 # Cafe-Sales
-Data Analytics using SQL and PowerBI
+Data Analytics Project using SQL
